@@ -1,4 +1,11 @@
 # lab06-SO
+Alexandre Ribeiro de Souza - 10417845
+
+
+
+
+
+
 
 Inserindo os Valores
 ![image](https://github.com/user-attachments/assets/4390788e-4a16-4f8d-857f-c778f95dc0bf)
